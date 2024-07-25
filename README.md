@@ -51,7 +51,7 @@ Participated in Agile/Scrum ceremonies, engaged in sprint planning, daily stand-
 and Confluence, significantly improving team productivity and project delivery timelines.
 
 
-## <img align="center" src="Assets/projects.png" alt="sindhukodakandla" height="50" width="60" /> Highlighted Projects💡
+## Highlighted Projects💡
 
 
 # [Book-recommendation System using python](https://github.com/kodakandlasindhu/Book-Recommendation-System) <img align="center" src="Assets/books.jpg" alt="BooksImage" height="30" width="60" />
@@ -62,7 +62,7 @@ Users can search the book either by title or genre. The objective is to improve 
 
 <img align="center" src="Assets/Book_website.png" alt="bookswebsite" height="200" width="350" />
 
-# <img align="center" src="Assets/certification.png" alt="Sindhu" height="35" width="60" />Certifications 
+# <img align="center" src="Assets/certification.png" alt="Sindhu" height="40" width="70" />Certifications 
 
 •	Front-end Development by Meta on Coursera
 
