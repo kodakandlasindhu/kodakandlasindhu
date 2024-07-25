@@ -50,21 +50,22 @@ and continuous integration practices.
 and Confluence, significantly improving team productivity and project delivery timelines.
 
 
-## <img align="center" src="Assets/project.jpg" alt="sindhukodakandla" height="50" width="60" /> Highlighted Projects💡
+## <img align="center" src="Assets/projects.jpg" alt="sindhukodakandla" height="50" width="60" /> Highlighted Projects💡
 
 
-# [Book-recommendation System](https://github.com/kodakandlasindhu/Book-Recommendation-System) <img align="center" src="Assets/books.jpeg" alt="BooksImage" height="50" width="60" />
+# [Book-recommendation System](https://github.com/kodakandlasindhu/Book-Recommendation-System) <img align="center" src="Assets/books.jpg" alt="BooksImage" height="50" width="60" />
 
 The system helps the users in finding a good set of books based on the user's interest. The system uses a collaborative filtering technique that can choose the right book for the user. The system will also display the top trending books along with personalized recommendations. The system keeps on learning based on real interest and gradually filters the books
 
 Users can search the book either by title or genre. The objective is to improve reader enjoyment and advance literacy. Users can also contribute to the system by rating the books they read which helps in community assistance.
 
 
-<img align="center" src="assets/Book_website.png" alt="bookswebsite" height="200" width="400" />
+<img align="center" src="Assets/Book_website.png" alt="bookswebsite" height="200" width="350" />
 
 
 
-# Certifications: <img align="center" src="Assets/certification.png" alt="Sindhu" height="25" width="25" />
+# Certifications <img align="center" src="Assets/certification.png" alt="Sindhu" height="40" width="60" />
+
 •	Front-end Development by meta on Coursera
 
 •	Spring Boot certification by udemy
