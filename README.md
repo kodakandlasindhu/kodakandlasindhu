@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sindhuvyshnavi Kodakandla</h1>
 <h3 align="center">Full-stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c41ada24162cfabc4a4bb9bae210ecfa7326243f63ef61c9a71a5b6a16b618cc/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodakandlasindhu&label=Profile%20views&color=0e75b6&style=flat" alt="kodakandlasindhu" /> </p>
 
@@ -34,7 +33,7 @@ Optimized complex SQL queries and JDBC operations, enhancing database interactio
 
 
 ### <img align="center" src="Assets/sigma_infosolutions_logo.jpeg" alt="Sigma info solutions" height="50" width="60" /> Sigma Info solutions, Banglore, India       | August 2020- July 2022                                                                                                    
-Position: Full-stack Developer
+Position: Software Developer
 
 Engineered responsive web applications using HTML, CSS, JavaScript, and Angular enhancing user interfaces and user 
 experience, which led to a 30% increase in user engagement.
