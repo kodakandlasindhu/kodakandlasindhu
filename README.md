@@ -16,7 +16,7 @@
 
 ## <img align="center" src="Assets/work.png" alt="Work" height="40" width="100" /> Experience
 
-### <img align="center" src="Assets/ptc.png" alt="PTC" height="50" width="60" /> PTC  | June 2022- Present
+### <img align="center" src="Assets/ptc.png" alt="PTC" height="50" width="60" /> PTC  | June 2024- Present
 Position: Full-stack Developer
 
 The company offers software solutions to its customers in industrial IoT and product lifecycle management (PLM).
