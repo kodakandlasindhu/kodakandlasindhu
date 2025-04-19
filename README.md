@@ -21,7 +21,7 @@ Position: Full-stack Developer
 
 The company offers software solutions to its customers in industrial IoT and product lifecycle management (PLM).
 
-The main goal of our project is to optimize the CRM system to improve its performance and enhance the user experience ensuring efficient data communication and integration.
+The main goal of our project is to optimize the system to improve its performance and enhance the user experience ensuring efficient data communication and integration.
 
 Utilized JAVA and Spring Boot as the main technologies for handling the business logic, data processing, and communication with the database
 
